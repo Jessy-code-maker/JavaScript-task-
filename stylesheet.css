@@ -1,0 +1,18 @@
+h1, h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2rem;
+    display: inline-block;
+}
+li {
+    margin: 20px 0;
+}
+
+strong {
+    font-size: 18x;
+}
