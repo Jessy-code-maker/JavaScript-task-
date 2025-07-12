@@ -5,7 +5,7 @@ console.log (fullName)
 
 //Scores
 let task1 = 8;
-let task2 = 10;
+let task2 = 9;
 let task3 = 10;
 const totalscore = task1 + task2 + task3;
 const averagescore = totalscore / 3;
@@ -49,4 +49,3 @@ Average: ${averagescore.toFixed(2)}
 Final Grade: ${grade}
 Message: ${message}`
 console.log(result)
-
