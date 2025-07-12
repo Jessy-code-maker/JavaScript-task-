@@ -8,11 +8,12 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 2rem;
     display: inline-block;
+    background-color: blanchedalmond;
 }
 li {
-    margin: 20px 0;
+    margin: 1.25rem 0;
 }
 
 strong {
-    font-size: 18x;
+    font-size: 18px;
 }
